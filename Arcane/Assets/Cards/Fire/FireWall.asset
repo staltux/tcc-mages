@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25c334c35ae318c46818eb4a667363c7, type: 3}
+  m_Name: FireWall
+  m_EditorClassIdentifier: 
+  title: Parede de Chamas
+  border: {fileID: 21300000, guid: 3960f40bab8601a4f9c626a53a3585a8, type: 3}
+  art: {fileID: 21300000, guid: f15a4b69203f50347b3cd117ea047385, type: 3}
+  School: {fileID: 21300000, guid: 93a5d405f6431e248a078b325f25ecbd, type: 3}
+  rank: 2
+  background: {fileID: 21300000, guid: 91414293b73066e488ce2f8b7f8dbb33, type: 3}
+  icon: {fileID: 21300000, guid: ba9745fa15448af42a38a76a0c239e0b, type: 3}
+  damage: 0.5
+  lateralDamage: 0
+  heal: 0
+  mana: 5
+  blood: 0
+  lifeTime: 10
+  cast: 1
+  speed: 0
+  element: 1
+  acceptableLines: 7
+  castClip: {fileID: 8300000, guid: 13aa39b33bf7bde40b3fefa1372f112d, type: 3}
+  impactClip: {fileID: 0}
+  dotClip: {fileID: 0}
+  animation: 7
+  description: Defende magias de vento e amplia o dano de magias fogo que a atravessarem
+    em 5% por segundo. Dura 10 segundos.
+  logic: {fileID: 3411238604194724932, guid: 0198864e522f4044a9a6c01360a36255, type: 3}
+  prefab: {fileID: 100004, guid: 1c20c7996d683754db1f0f62a361952c, type: 3}
+  UUID: c5d2e866-03f5-4556-9c5b-5e907d7d52d3

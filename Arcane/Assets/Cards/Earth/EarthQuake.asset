@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25c334c35ae318c46818eb4a667363c7, type: 3}
+  m_Name: EarthQuake
+  m_EditorClassIdentifier: 
+  title: Terremoto
+  border: {fileID: 21300000, guid: 0993cc488217973429373b244efb8680, type: 3}
+  art: {fileID: 21300000, guid: e39ecbc566fb3634887c2c8c26e2dca5, type: 3}
+  School: {fileID: 21300000, guid: b483aa335a94d9b4f8e79d3e87cfb9ca, type: 3}
+  rank: 3
+  background: {fileID: 21300000, guid: 565d56ecd15b30848bf5298e979d56d4, type: 3}
+  icon: {fileID: 21300000, guid: 987f12a5682a5c249a9af3496ecd1801, type: 3}
+  damage: 10
+  lateralDamage: 0
+  heal: 0
+  mana: 6
+  blood: 0
+  lifeTime: 0
+  cast: 1.5
+  speed: 0
+  element: 3
+  acceptableLines: 16
+  castClip: {fileID: 8300000, guid: eca18781716f98441a317f175ddc98db, type: 3}
+  impactClip: {fileID: 8300000, guid: f91c69323684b7a42a5347e49e379bc2, type: 3}
+  dotClip: {fileID: 8300000, guid: 230f58b2d743c564f95b0832dc5c3dc3, type: 3}
+  animation: 7
+  description: "Causa 10 dano no inimigo. O dano dobra caso exista uma fissura, onde
+    elas ir\xE3o se alastrar para outras linhas e durar mais 5 segundos."
+  logic: {fileID: 388755645668618092, guid: 39d2388f3cb7cc64a9a966d4b5c30f29, type: 3}
+  prefab: {fileID: 1000014033464604, guid: 53a967392e9d0584bb18ca6e24f16b63, type: 3}
+  UUID: a43ea271-04f9-44f5-9e75-53814f834a4c

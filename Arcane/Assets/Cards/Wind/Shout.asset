@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25c334c35ae318c46818eb4a667363c7, type: 3}
+  m_Name: Shout
+  m_EditorClassIdentifier: 
+  title: Brado
+  border: {fileID: 21300000, guid: 2430b3f409b3e124c9a898b53e832bee, type: 3}
+  art: {fileID: 21300000, guid: 6aa620e2863d2a048bb65a1a8ef745c1, type: 3}
+  School: {fileID: 21300000, guid: 8546dfb00d6c91e4ea4e477ccf1c96f1, type: 3}
+  rank: 4
+  background: {fileID: 21300000, guid: 506c7795285642447857260029b262fa, type: 3}
+  icon: {fileID: 21300000, guid: ea84fd250a337754a87072fa70027224, type: 3}
+  damage: 0
+  lateralDamage: 0
+  heal: 0
+  mana: 5
+  blood: 0
+  lifeTime: 0
+  cast: 0.5
+  speed: 3
+  element: 2
+  acceptableLines: 7
+  castClip: {fileID: 8300000, guid: 5fb16b387caf7b14c89586a6c1e5ba08, type: 3}
+  impactClip: {fileID: 8300000, guid: d87c358a232008b438c7159990c0489c, type: 3}
+  dotClip: {fileID: 0}
+  animation: 10
+  description: "Reflete metade do dano recebido, deixando a outra metade passar. Se
+    destr\xF3i caso o dano for de fogo."
+  logic: {fileID: 5485177873754329120, guid: 9f5001c3b7538504a94251dc696bff27, type: 3}
+  prefab: {fileID: 1619084825275064151, guid: 8b3febc039324994db3a64125ffe2f12, type: 3}
+  UUID: 3a0a36ff-b8cb-4562-8b40-60e9dec07cfa

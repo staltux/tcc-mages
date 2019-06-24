@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25c334c35ae318c46818eb4a667363c7, type: 3}
+  m_Name: Resilience
+  m_EditorClassIdentifier: 
+  title: "Resili\xEAncia"
+  border: {fileID: 21300000, guid: 2430b3f409b3e124c9a898b53e832bee, type: 3}
+  art: {fileID: 21300000, guid: e14af4d2774933742950aca7e17d6f42, type: 3}
+  School: {fileID: 21300000, guid: b483aa335a94d9b4f8e79d3e87cfb9ca, type: 3}
+  rank: 4
+  background: {fileID: 21300000, guid: 565d56ecd15b30848bf5298e979d56d4, type: 3}
+  icon: {fileID: 21300000, guid: 244f0a6626b0ea444b197042146f8554, type: 3}
+  damage: 0
+  lateralDamage: 0
+  heal: 0
+  mana: 5
+  blood: 0
+  lifeTime: 10
+  cast: 1
+  speed: 0
+  element: 3
+  acceptableLines: 8
+  castClip: {fileID: 8300000, guid: 8b5bbe2ebcfa21040ac86a0ff27a1206, type: 3}
+  impactClip: {fileID: 0}
+  dotClip: {fileID: 0}
+  animation: 8
+  description: "Reduz danos recebidos em 50%, exceto vento. aumenta o tempo da pr\xF3pria
+    invoca\xE7\xE3o em 100%.Dura 10 segundos ou at\xE9 sofrer dano de vento rank 3
+    ou superior."
+  logic: {fileID: 3024271450898492927, guid: 01a6e3283e6a9a04299aeed33e8ce148, type: 3}
+  prefab: {fileID: 4031269977947803961, guid: 16b4b116d8467bb4a88eaf9141cd79f0, type: 3}
+  UUID: ffc50c29-ffe4-4c75-a887-8e10ebd5bbd7

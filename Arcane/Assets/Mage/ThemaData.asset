@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 614d90b94a275894abbb6af3f140057a, type: 3}
+  m_Name: ThemaData
+  m_EditorClassIdentifier: 
+  portrait: {fileID: 21300000, guid: bae10006d6425da4681f9b52c7ddf8a6, type: 3}
+  picture: {fileID: 21300000, guid: 3fbbf2baa767f8c40b4021857d2e9d0c, type: 3}
+  versus: {fileID: 21300000, guid: 425efb432db92234fa226eeab0812875, type: 3}
+  title: Thema Azibo
+  subTitle: Rainha da Terra
+  ison: {fileID: 21300000, guid: 297aea76e5cdaeb4ab62c6c4ebade209, type: 3}
+  price: 5000
+  element: 3
+  model: {fileID: 8679571703018107089, guid: 9a325d4cc22d204439689780b60c561c, type: 3}
+  decks:
+  - {fileID: 11400000, guid: 6fe5bf9904f102741be0d0078bc7442e, type: 2}
+  - {fileID: 11400000, guid: b50fa62e702410a4a879f861a388d997, type: 2}
+  speaks:
+  - {fileID: 8300000, guid: 83d7835c9a98fb545af3bab482f9010c, type: 3}
+  - {fileID: 8300000, guid: 9b0e7ff01c618004da43684742aad1df, type: 3}
+  - {fileID: 8300000, guid: 51bbdd860fcda1b4a8c7513d96814e43, type: 3}
+  selectSpeaks:
+  - {fileID: 8300000, guid: 37008634c94a2874684aeab538833327, type: 3}
+  - {fileID: 8300000, guid: 57316d326c1e635498b1f9e05e7de6c2, type: 3}
+  UUID: a223fca7-659c-43bf-ae4c-237e35a72628

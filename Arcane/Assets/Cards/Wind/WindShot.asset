@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25c334c35ae318c46818eb4a667363c7, type: 3}
+  m_Name: WindShot
+  m_EditorClassIdentifier: 
+  title: Disparo de Vento
+  border: {fileID: 21300000, guid: 0993cc488217973429373b244efb8680, type: 3}
+  art: {fileID: 21300000, guid: 58ebb6a6d73c97342b83c163bbad58ec, type: 3}
+  School: {fileID: 21300000, guid: 8546dfb00d6c91e4ea4e477ccf1c96f1, type: 3}
+  rank: 3
+  background: {fileID: 21300000, guid: 506c7795285642447857260029b262fa, type: 3}
+  icon: {fileID: 21300000, guid: c0804509f2e3d8c44be9afab0af309d6, type: 3}
+  damage: 30
+  lateralDamage: 0
+  heal: 0
+  mana: 5
+  blood: 0
+  lifeTime: 0
+  cast: 2
+  speed: 6
+  element: 2
+  acceptableLines: 7
+  castClip: {fileID: 8300000, guid: 4f7fb2fe277a0cd4ea510f948c37248b, type: 3}
+  impactClip: {fileID: 0}
+  dotClip: {fileID: 0}
+  animation: 5
+  description: "Conjura 3 proj\xE9teis que causam 10 de dano cada um. "
+  logic: {fileID: 7944176913645865624, guid: f0369bb4c5b66e7439aa240ff40fa4c5, type: 3}
+  prefab: {fileID: 1619084825275064151, guid: b03b295c6963a6847945a00d5b9ebcf9, type: 3}
+  UUID: 4b1b2e0e-2300-40f8-8562-5e36e117db38

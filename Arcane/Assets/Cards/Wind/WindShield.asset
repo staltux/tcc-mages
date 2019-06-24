@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25c334c35ae318c46818eb4a667363c7, type: 3}
+  m_Name: WindShield
+  m_EditorClassIdentifier: 
+  title: Escudo de Vento
+  border: {fileID: 21300000, guid: 3960f40bab8601a4f9c626a53a3585a8, type: 3}
+  art: {fileID: 21300000, guid: 33ac5f7c218e85c49bea1fbfcecb6790, type: 3}
+  School: {fileID: 21300000, guid: 8546dfb00d6c91e4ea4e477ccf1c96f1, type: 3}
+  rank: 1
+  background: {fileID: 21300000, guid: 506c7795285642447857260029b262fa, type: 3}
+  icon: {fileID: 21300000, guid: ed9257a9ff52e4943b66562743620304, type: 3}
+  damage: 0
+  lateralDamage: 0
+  heal: 0
+  mana: 3
+  blood: 15
+  lifeTime: 4
+  cast: 0.5
+  speed: 0
+  element: 2
+  acceptableLines: 8
+  castClip: {fileID: 8300000, guid: 9622af3f3cbd7624cb10582580e63a66, type: 3}
+  impactClip: {fileID: 0}
+  dotClip: {fileID: 0}
+  animation: 8
+  description: "Invoca um escudo com 15 pontos de vida, danos de terra recebidos s\xE3o
+    reduzidos em 50%. Dura 4 segundos"
+  logic: {fileID: 3129293162639942614, guid: 2867538fbb7cd864da3f95328425aa3a, type: 3}
+  prefab: {fileID: 1588008039129960756, guid: f4795a96b1137f144832b0c726846bd8, type: 3}
+  UUID: 3f03ec5e-a0fc-46ef-8481-6b38ad697f06

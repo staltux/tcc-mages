@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25c334c35ae318c46818eb4a667363c7, type: 3}
+  m_Name: BubbleWhirl
+  m_EditorClassIdentifier: 
+  title: "Turbilh\xE3o de Bolhas"
+  border: {fileID: 21300000, guid: 3960f40bab8601a4f9c626a53a3585a8, type: 3}
+  art: {fileID: 21300000, guid: 6dffd10269cb3ef4eb3a00a80bed2615, type: 3}
+  School: {fileID: 21300000, guid: 3767c52d153f2764d80581aa3a906b86, type: 3}
+  rank: 1
+  background: {fileID: 21300000, guid: 701a05a6d97936d43ba6f60be27b20a0, type: 3}
+  icon: {fileID: 21300000, guid: 11a9e1fe1dd0f5041bafd9856c3c8afd, type: 3}
+  damage: 15
+  lateralDamage: 0
+  heal: 0
+  mana: 3
+  blood: 0
+  lifeTime: 0
+  cast: 1
+  speed: 3
+  element: 4
+  acceptableLines: 7
+  castClip: {fileID: 8300000, guid: 5526a774df0c3054fb7f2cbd7d248f05, type: 3}
+  impactClip: {fileID: 8300000, guid: a2555b98d650e4a42a408359b3cc473c, type: 3}
+  dotClip: {fileID: 0}
+  animation: 2
+  description: Causa 15 de dano e 5 de dano nos alvos adjacentes.
+  logic: {fileID: 732154638193908423, guid: b4a199969ed0ed245a6ea00bc39465ea, type: 3}
+  prefab: {fileID: 100000, guid: 18204b98237ccb540808f2cd2d78c2c8, type: 3}
+  UUID: 6c0199d1-b3ec-450e-859f-744f58a5201a

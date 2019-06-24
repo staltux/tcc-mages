@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25c334c35ae318c46818eb4a667363c7, type: 3}
+  m_Name: StoneWall
+  m_EditorClassIdentifier: 
+  title: Parede de Pedra
+  border: {fileID: 21300000, guid: 3960f40bab8601a4f9c626a53a3585a8, type: 3}
+  art: {fileID: 21300000, guid: 7007857d81c602c4a95a0de46ae93235, type: 3}
+  School: {fileID: 21300000, guid: b483aa335a94d9b4f8e79d3e87cfb9ca, type: 3}
+  rank: 2
+  background: {fileID: 21300000, guid: 565d56ecd15b30848bf5298e979d56d4, type: 3}
+  icon: {fileID: 21300000, guid: 1a4e480297d0156469a4834ce0c2431c, type: 3}
+  damage: 0
+  lateralDamage: 0
+  heal: 0
+  mana: 6
+  blood: 30
+  lifeTime: 0
+  cast: 1
+  speed: 0
+  element: 3
+  acceptableLines: 7
+  castClip: {fileID: 8300000, guid: 13c335103207f2d4296d9c1dea1931a7, type: 3}
+  impactClip: {fileID: 0}
+  dotClip: {fileID: 0}
+  animation: 7
+  description: "Parede de pedra com 30 de vida, perde 5 de vida por segundo chegando
+    ao m\xEDnimo de 10 onde permanece at\xE9 ser destru\xEDda."
+  logic: {fileID: 4804844781482021109, guid: 76424af6c42c06c42b931749716a3c7d, type: 3}
+  prefab: {fileID: 516156557397016208, guid: 84d713e771f411047b414ebb7da236df, type: 3}
+  UUID: 7f402c5e-61e9-4eba-b6ed-df7ea45c5487

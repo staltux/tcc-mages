@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Battle
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: d1f1ccb7eab0bff42ae5ce3c62f85ace, type: 3}
+    - {fileID: 2800000, guid: 67a86e8f4c9da9840a5b2e8c56793961, type: 3}
+    - {fileID: 2800000, guid: fd341e9c3c4bfa14885b12f77bdfa0be, type: 3}
+    - {fileID: 2800000, guid: 4eb0f3688df221549ae8c07fbc0e8074, type: 3}
+    - {fileID: 2800000, guid: 6d4c2de248ce81049acfdb832d996687, type: 3}
+    - {fileID: 2800000, guid: a8c929dd96fc28b4185bdc1f702a506d, type: 3}
+    - {fileID: 2800000, guid: 5926a751857cd4749a89758cc42d7b0d, type: 3}
+    - {fileID: 2800000, guid: 7bdfcf0a5ae94544784b1440ca948b8d, type: 3}
+    - {fileID: 2800000, guid: c10a4260007bbd64ca7ba473769c37de, type: 3}
+    - {fileID: 2800000, guid: 3cfaf27e7c8dac649a7c815ae315f7e5, type: 3}
+    - {fileID: 2800000, guid: d0e2d318d8030c5488be062575c1e423, type: 3}
+    - {fileID: 2800000, guid: a61307fd50bb9174ea0d1465294cf8a6, type: 3}
+    totalSpriteSurfaceArea: 1939716
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: c10a4260007bbd64ca7ba473769c37de, type: 3}
+  - {fileID: 21300000, guid: 5926a751857cd4749a89758cc42d7b0d, type: 3}
+  - {fileID: 21300000, guid: 6d4c2de248ce81049acfdb832d996687, type: 3}
+  - {fileID: 21300000, guid: d1f1ccb7eab0bff42ae5ce3c62f85ace, type: 3}
+  - {fileID: 21300000, guid: d0e2d318d8030c5488be062575c1e423, type: 3}
+  - {fileID: 21300000, guid: 7bdfcf0a5ae94544784b1440ca948b8d, type: 3}
+  - {fileID: 21300000, guid: fd341e9c3c4bfa14885b12f77bdfa0be, type: 3}
+  - {fileID: 21300000, guid: a8c929dd96fc28b4185bdc1f702a506d, type: 3}
+  - {fileID: 21300000, guid: a61307fd50bb9174ea0d1465294cf8a6, type: 3}
+  - {fileID: 21300000, guid: 3cfaf27e7c8dac649a7c815ae315f7e5, type: 3}
+  - {fileID: 21300000, guid: 67a86e8f4c9da9840a5b2e8c56793961, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Mp_Fill
+  - Hp_Bar
+  - Card_Next_Slot
+  - arrow-975990_960_720
+  - Skill_Bar
+  - Mp_Bar
+  - Card_Frame
+  - Card_Slot
+  - Skill_Frame_Big
+  - Hp_Fill
+  - kisspng-circle-area-body-jewellery-font-vector-circle-border-5aae8e4291a018.8586307315213891225965
+  m_Tag: Battle
+  m_IsVariant: 0

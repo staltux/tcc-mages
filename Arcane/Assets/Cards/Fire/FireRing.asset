@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25c334c35ae318c46818eb4a667363c7, type: 3}
+  m_Name: FireRing
+  m_EditorClassIdentifier: 
+  title: Circulo de Fogo
+  border: {fileID: 21300000, guid: 2430b3f409b3e124c9a898b53e832bee, type: 3}
+  art: {fileID: 21300000, guid: 0fe1804578ba18f4289f8dfb93227053, type: 3}
+  School: {fileID: 21300000, guid: 93a5d405f6431e248a078b325f25ecbd, type: 3}
+  rank: 4
+  background: {fileID: 21300000, guid: 91414293b73066e488ce2f8b7f8dbb33, type: 3}
+  icon: {fileID: 21300000, guid: 9f125fa293b122c4a84436b3c5c06742, type: 3}
+  damage: 5
+  lateralDamage: 0
+  heal: 0
+  mana: 5
+  blood: 0
+  lifeTime: 3
+  cast: 2
+  speed: 0
+  element: 1
+  acceptableLines: 16
+  castClip: {fileID: 8300000, guid: 2b128bffd2c841944a7607a87f64d4dd, type: 3}
+  impactClip: {fileID: 8300000, guid: fc7ca3e309033c042b4b3d4d4dd986bd, type: 3}
+  dotClip: {fileID: 8300000, guid: 8a50ca28bc6d8554e8e45afd876b3796, type: 3}
+  animation: 4
+  description: Causa 5 de dano por segundo durante 4 segundos.
+  logic: {fileID: 7239866256505103573, guid: 165e669600ccfaf4aa917f29f2d2f150, type: 3}
+  prefab: {fileID: 7901091774367144904, guid: 33ebfd07cf824784a8faf990ee50f04d, type: 3}
+  UUID: f6d44950-46e2-4a14-bdf7-a2202e2f31c8

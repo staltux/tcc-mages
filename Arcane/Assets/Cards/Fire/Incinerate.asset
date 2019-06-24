@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25c334c35ae318c46818eb4a667363c7, type: 3}
+  m_Name: Incinerate
+  m_EditorClassIdentifier: 
+  title: Incinerar
+  border: {fileID: 21300000, guid: 3960f40bab8601a4f9c626a53a3585a8, type: 3}
+  art: {fileID: 21300000, guid: ff58f8a509203ad41827bbeb04bedd21, type: 3}
+  School: {fileID: 21300000, guid: 93a5d405f6431e248a078b325f25ecbd, type: 3}
+  rank: 2
+  background: {fileID: 21300000, guid: 91414293b73066e488ce2f8b7f8dbb33, type: 3}
+  icon: {fileID: 21300000, guid: 943d7291f688edd45a0c3aeb0114492a, type: 3}
+  damage: 5
+  lateralDamage: 0
+  heal: 0
+  mana: 3
+  blood: 0
+  lifeTime: 5
+  cast: 1.5
+  speed: 0
+  element: 1
+  acceptableLines: 7
+  castClip: {fileID: 8300000, guid: a56bd76ab4e28984bbc0af50286995f1, type: 3}
+  impactClip: {fileID: 8300000, guid: 95aacbe75bd5cca45b71e470f192f1f6, type: 3}
+  dotClip: {fileID: 0}
+  animation: 5
+  description: Causa 5 de dano por segundo durante 5 segundos.
+  logic: {fileID: 6846442090786181126, guid: 76af79476c6dff643aa87eecaacbc3fa, type: 3}
+  prefab: {fileID: 1000012118400646, guid: 3123da49cb81147489b444f2749aba47, type: 3}
+  UUID: 98e3c831-0aca-491b-87ed-89fbbed537be

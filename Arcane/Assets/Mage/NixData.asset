@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 614d90b94a275894abbb6af3f140057a, type: 3}
+  m_Name: NixData
+  m_EditorClassIdentifier: 
+  portrait: {fileID: 21300000, guid: e29198c723a743e4c83b4e78a418a3fe, type: 3}
+  picture: {fileID: 21300000, guid: f0941dc7a53e52e429fc479bb8c74e94, type: 3}
+  versus: {fileID: 21300000, guid: dac42c117e94e67488ffd69e90ad76cc, type: 3}
+  title: Nix Melker
+  subTitle: "Escudo da \xC1gua"
+  ison: {fileID: 21300000, guid: 407c0177f6f12154cbda655f0b224c8f, type: 3}
+  price: 5000
+  element: 4
+  model: {fileID: 7691541434578983880, guid: 9ff2c4eaacd98c24ca61352eecb6b3dc, type: 3}
+  decks:
+  - {fileID: 11400000, guid: c847376b681d5a94e81b58452677007e, type: 2}
+  - {fileID: 11400000, guid: 78cf911744ecc1a4c896d48494b8401e, type: 2}
+  speaks:
+  - {fileID: 8300000, guid: 4cd37775929a45b4180c1a248fd49c4e, type: 3}
+  - {fileID: 8300000, guid: f2a6123a7a519cd4aa09e89d50db68ea, type: 3}
+  - {fileID: 8300000, guid: 64e3b833871503345840c3366775e659, type: 3}
+  selectSpeaks:
+  - {fileID: 8300000, guid: c7fb638bf32e7d74fbf73b3ce8ef635c, type: 3}
+  - {fileID: 8300000, guid: 206a9ea670f2e7d45a0ff14028806f57, type: 3}
+  UUID: e7079f94-c0da-4b9a-babd-a6ff519024ba

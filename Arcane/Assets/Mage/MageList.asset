@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab5f9690307147d4f9399b03341fbac3, type: 3}
+  m_Name: MageList
+  m_EditorClassIdentifier: 
+  mages:
+  - {fileID: 11400000, guid: b8b449055a57014429fc59101a323e6b, type: 2}
+  - {fileID: 11400000, guid: 27f9013dbe878d94cacce965c592853b, type: 2}
+  - {fileID: 11400000, guid: afe2b7588b836614fbdb73bb9a9ead25, type: 2}
+  - {fileID: 11400000, guid: 79eb6308771dda94ab9ea92eacae62b7, type: 2}

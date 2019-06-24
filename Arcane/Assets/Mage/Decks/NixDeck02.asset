@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bce2453b4c4c99d4882df3627926a713, type: 3}
+  m_Name: NixDeck02
+  m_EditorClassIdentifier: 
+  cards:
+  - {fileID: 11400000, guid: 76bb12620ca1a1b49b53777d967a1910, type: 2}
+  - {fileID: 11400000, guid: 0425315cc85db5340b31c96f8852c0b2, type: 2}
+  - {fileID: 11400000, guid: ac3622ab9fd35b04790b8100a16a617a, type: 2}
+  - {fileID: 11400000, guid: d82787060188eaf458976896969af233, type: 2}
+  - {fileID: 11400000, guid: 6b7a530dbcbd6014e95de961721812de, type: 2}
+  - {fileID: 11400000, guid: 199254966e29a1a40b3c4101b7caf793, type: 2}
+  - {fileID: 11400000, guid: f810bad2f135340469dd8303c9bda5c7, type: 2}
+  - {fileID: 11400000, guid: 21ebe085b854cf14bb7cf6cd15606cdb, type: 2}

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25c334c35ae318c46818eb4a667363c7, type: 3}
+  m_Name: Meteor
+  m_EditorClassIdentifier: 
+  title: Meteoro
+  border: {fileID: 21300000, guid: 0993cc488217973429373b244efb8680, type: 3}
+  art: {fileID: 21300000, guid: 2f2f776c001a76e40b2479874da7c8f4, type: 3}
+  School: {fileID: 21300000, guid: b483aa335a94d9b4f8e79d3e87cfb9ca, type: 3}
+  rank: 3
+  background: {fileID: 21300000, guid: 565d56ecd15b30848bf5298e979d56d4, type: 3}
+  icon: {fileID: 21300000, guid: befe0f57d0d0bc34aac7b25f732507ef, type: 3}
+  damage: 25
+  lateralDamage: 0
+  heal: 0
+  mana: 4
+  blood: 0
+  lifeTime: 3
+  cast: 0.8
+  speed: 0
+  element: 3
+  acceptableLines: 16
+  castClip: {fileID: 8300000, guid: 34cf9c16fa3861c41985982d6193ef68, type: 3}
+  impactClip: {fileID: 8300000, guid: 0d1a5f9e5c785dd48b1bbe4d03ae35a0, type: 3}
+  dotClip: {fileID: 0}
+  animation: 4
+  description: "Causa 25 de dano em uma dire\xE7\xE3o."
+  logic: {fileID: 8248117481848833601, guid: 9fd974ce2c0a8964e8acc8ba1428e3ff, type: 3}
+  prefab: {fileID: 1953246956371659810, guid: 21ef187175d439244802a01f5824971f, type: 3}
+  UUID: dd617d87-1404-422b-bd21-c363b2b55de7

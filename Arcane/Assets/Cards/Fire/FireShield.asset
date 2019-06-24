@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25c334c35ae318c46818eb4a667363c7, type: 3}
+  m_Name: FireShield
+  m_EditorClassIdentifier: 
+  title: Escudo Flamejante
+  border: {fileID: 21300000, guid: 3960f40bab8601a4f9c626a53a3585a8, type: 3}
+  art: {fileID: 21300000, guid: 3ccc2fef19e51c94097bb2c8a76c0628, type: 3}
+  School: {fileID: 21300000, guid: 93a5d405f6431e248a078b325f25ecbd, type: 3}
+  rank: 1
+  background: {fileID: 21300000, guid: 91414293b73066e488ce2f8b7f8dbb33, type: 3}
+  icon: {fileID: 21300000, guid: 9bd1ff4fc749efe4896ffebec1c14fe7, type: 3}
+  damage: 0
+  lateralDamage: 0
+  heal: 0
+  mana: 3
+  blood: 15
+  lifeTime: 4
+  cast: 0.5
+  speed: 0
+  element: 1
+  acceptableLines: 8
+  castClip: {fileID: 8300000, guid: 74627bdb8a13e0d49b58934106a56111, type: 3}
+  impactClip: {fileID: 0}
+  dotClip: {fileID: 0}
+  animation: 8
+  description: "Invoca um escudo com 15 pontos de vida, danos de vento recebidos s\xE3o
+    reduzidos em 50%. Dura 4 segundos."
+  logic: {fileID: 6424535627754433757, guid: cbac628ec77eb2340a032d6d0aa298e7, type: 3}
+  prefab: {fileID: 1588008039129960756, guid: f85e690d6f28fd446b30db68a1adc434, type: 3}
+  UUID: 81affd1e-e077-4270-960f-4eddd48c4da7

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25c334c35ae318c46818eb4a667363c7, type: 3}
+  m_Name: Fisure
+  m_EditorClassIdentifier: 
+  title: Fissura
+  border: {fileID: 21300000, guid: 3960f40bab8601a4f9c626a53a3585a8, type: 3}
+  art: {fileID: 21300000, guid: 4f65374d147c53b45b76c521ed55fd22, type: 3}
+  School: {fileID: 21300000, guid: b483aa335a94d9b4f8e79d3e87cfb9ca, type: 3}
+  rank: 1
+  background: {fileID: 21300000, guid: 565d56ecd15b30848bf5298e979d56d4, type: 3}
+  icon: {fileID: 21300000, guid: 5c753432b9c501843a38da6222f6b307, type: 3}
+  damage: 10
+  lateralDamage: 0
+  heal: 0
+  mana: 3
+  blood: 0
+  lifeTime: 5
+  cast: 1
+  speed: 0
+  element: 3
+  acceptableLines: 7
+  castClip: {fileID: 8300000, guid: 1188adb1a2ad6fd4a866c22173588ce7, type: 3}
+  impactClip: {fileID: 8300000, guid: 6b305ea09e43e6f40b1c29382a8e895b, type: 3}
+  dotClip: {fileID: 0}
+  animation: 3
+  description: "Causa 10 de dano. impede a invoca\xE7\xE3o de magias \xE1gua durante
+    5 segundos.\r"
+  logic: {fileID: 5557973229522507235, guid: 248acc40dfae1d84e98ef4ea1fabb711, type: 3}
+  prefab: {fileID: 342645293629225313, guid: c214e536462b97946841d9e26ebb3d91, type: 3}
+  UUID: b9d87b79-0a0e-43f3-9ba5-07bcc97ffe26

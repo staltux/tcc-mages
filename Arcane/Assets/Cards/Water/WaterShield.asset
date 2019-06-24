@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25c334c35ae318c46818eb4a667363c7, type: 3}
+  m_Name: WaterShield
+  m_EditorClassIdentifier: 
+  title: "Escudo de \xC1gua"
+  border: {fileID: 21300000, guid: 3960f40bab8601a4f9c626a53a3585a8, type: 3}
+  art: {fileID: 21300000, guid: ac516864effb58144905c2e7f59d2c07, type: 3}
+  School: {fileID: 21300000, guid: 3767c52d153f2764d80581aa3a906b86, type: 3}
+  rank: 1
+  background: {fileID: 21300000, guid: 701a05a6d97936d43ba6f60be27b20a0, type: 3}
+  icon: {fileID: 21300000, guid: fe9e2bc6745ef7e4c9ca95e641766dda, type: 3}
+  damage: 10
+  lateralDamage: 20
+  heal: 0
+  mana: 3
+  blood: 15
+  lifeTime: 4
+  cast: 0.5
+  speed: 0
+  element: 4
+  acceptableLines: 8
+  castClip: {fileID: 8300000, guid: f8b8bd6fa49b4b1488d14fb44d34e253, type: 3}
+  impactClip: {fileID: 0}
+  dotClip: {fileID: 0}
+  animation: 8
+  description: "Invoca um escudo com 15 pontos de vida, danos de fogo recebidos s\xE3o
+    reduzidos em 50%. Dura 4 segundos"
+  logic: {fileID: 4261956199042922091, guid: 13a78160e85f8f649ac512626afb033a, type: 3}
+  prefab: {fileID: 1588008039129960756, guid: 108149fefc93ffe4baad861cfbce3150, type: 3}
+  UUID: b316d4ba-28ea-45c0-bcf0-25e110a2dece

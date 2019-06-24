@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25c334c35ae318c46818eb4a667363c7, type: 3}
+  m_Name: WindBarrier
+  m_EditorClassIdentifier: 
+  title: Barreira de Vento
+  border: {fileID: 21300000, guid: 3960f40bab8601a4f9c626a53a3585a8, type: 3}
+  art: {fileID: 21300000, guid: a0950c9976248fb458dfde59797d5fb0, type: 3}
+  School: {fileID: 21300000, guid: 8546dfb00d6c91e4ea4e477ccf1c96f1, type: 3}
+  rank: 2
+  background: {fileID: 21300000, guid: 506c7795285642447857260029b262fa, type: 3}
+  icon: {fileID: 21300000, guid: a5d1e370b23625749863bb4d520b0fd6, type: 3}
+  damage: 0
+  lateralDamage: 0
+  heal: 0
+  mana: 5
+  blood: 0
+  lifeTime: 10
+  cast: 1
+  speed: 0
+  element: 2
+  acceptableLines: 7
+  castClip: {fileID: 8300000, guid: d3bebc1ba887a4e499d2fc2a1bf7c171, type: 3}
+  impactClip: {fileID: 0}
+  dotClip: {fileID: 0}
+  animation: 7
+  description: "Defende magias de terra e diminui o tempo de invoca\xE7\xE3o em 50%,
+    perde 5% do efeito por segundo. Dura 10 segundos ou at\xE9 receber um ataque de
+    fogo."
+  logic: {fileID: 4102955931676084489, guid: 0199b6afbef6427429d38f362133aff3, type: 3}
+  prefab: {fileID: 4962348437035317362, guid: 203240eaa7c0f6745a28e75caa76c804, type: 3}
+  UUID: fe41a08b-55f0-495c-9b0c-bb395286ca42

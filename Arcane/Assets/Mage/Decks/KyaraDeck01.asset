@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bce2453b4c4c99d4882df3627926a713, type: 3}
+  m_Name: KyaraDeck01
+  m_EditorClassIdentifier: 
+  cards:
+  - {fileID: 11400000, guid: 76bb12620ca1a1b49b53777d967a1910, type: 2}
+  - {fileID: 11400000, guid: 4fe2e2a74397a02498eaf87788bc4afb, type: 2}
+  - {fileID: 11400000, guid: a236c177ec8aa2f48a40df72874eee74, type: 2}
+  - {fileID: 11400000, guid: 0a94f051fe3d57c48ad05c374631503b, type: 2}
+  - {fileID: 11400000, guid: d82787060188eaf458976896969af233, type: 2}
+  - {fileID: 11400000, guid: db8da5c3b7b015a45853afd7f3067135, type: 2}
+  - {fileID: 11400000, guid: a4224e7a5573d014f92163f13f1540e7, type: 2}
+  - {fileID: 11400000, guid: b4e7ddb034056ea4c98300ae057db3df, type: 2}
